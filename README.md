@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
+| [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
+| [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -25,9 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
+| [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sweep Line
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
+## Greedy
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0704-binary-search) |
 | [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
@@ -44,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

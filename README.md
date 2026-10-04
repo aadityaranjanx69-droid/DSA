@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -97,8 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

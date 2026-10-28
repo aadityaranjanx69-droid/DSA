@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0226-invert-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0226-invert-binary-tree) |
 ## Union-Find

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0242-valid-anagram) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -176,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->

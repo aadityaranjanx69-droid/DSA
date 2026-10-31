@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1882-process-tasks-using-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path

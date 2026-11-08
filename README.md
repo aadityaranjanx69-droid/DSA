@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1882-process-tasks-using-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -168,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -217,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

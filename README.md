@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0633-sum-of-square-numbers) |

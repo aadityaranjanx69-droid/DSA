@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix

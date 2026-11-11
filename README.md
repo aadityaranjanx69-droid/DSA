@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String

@@ -1,0 +1,34 @@
+class Solution {
+    public long countNonDecreasingSubarrays(int[] nums, int k) {
+        int n = nums.length;
+        int[] b = new int[n];
+        for (int i = 0; i < n; i++) {
+            b[i] = nums[n - 1 - i];
+        }
+        int[] dq = new int[n];
+        int head = 0, tail = 0;
+        long sumMax = 0, sumWin = 0, ans = 0;
+        int l = 0;
+        for (int r = 0; r < n; r++) {
+            while (tail > head && b[dq[tail - 1]] <= b[r]) {
+                int prev = tail - 1 > head ? dq[tail - 2] : l - 1;
+                sumMax -= (long) b[dq[tail - 1]] * (dq[tail - 1] - prev);
+                tail--;
+            }
+            int prev = tail > head ? dq[tail - 1] : l - 1;
+            sumMax += (long) b[r] * (r - prev);
+            dq[tail++] = r;
+            sumWin += b[r];
+            while (sumMax - sumWin > k) {
+                sumMax -= b[dq[head]];
+                if (dq[head] == l) {
+                    head++;
+                }
+                sumWin -= b[l];
+                l++;
+            }
+            ans += r - l + 1;
+        }
+        return ans;
+    }
+}

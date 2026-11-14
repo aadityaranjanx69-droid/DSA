@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1882-process-tasks-using-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1882-process-tasks-using-servers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

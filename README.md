@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0986-interval-list-intersections) |
 | [1267-count-servers-that-communicate](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2747-count-zero-request-servers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aadityaranjanx69-droid/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3693-climbing-stairs-ii) |

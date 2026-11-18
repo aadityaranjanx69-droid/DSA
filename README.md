@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aadityaranjanx69-droid/DSA/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aadityaranjanx69-droid/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aadityaranjanx69-droid/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
